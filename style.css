@@ -1,0 +1,125 @@
+h1{
+  border-style: dashed;
+  color: blue;
+  text-align: center;
+  font-style: oblique;
+  font-size: 60px
+}
+body {background-color: powderblue;}
+
+nav{
+text-align: center;
+font-style: oblique;
+color: blue;
+font-size: 30px
+}
+
+h4{
+  margin-left: 7%;
+  text-align: left;
+  height: 150px;
+  width: 85%;
+  font-size: 32px;
+}
+
+
+
+h3{
+  text-align: center;
+}
+
+ol {
+  display: table;
+  margin: auto;
+}
+
+h2{
+  margin-left: 30%;
+  color: blue;
+  border-width: medium;
+  text-align: center;
+  height: 550px;
+  width: 50%;
+  font-size: 30px;
+}
+
+h5{
+  text-align: center;
+  height: 150px;
+  width: 85%;
+  font-size: 30px;
+  color: blue;
+}
+
+h6{
+  text-align: center;
+  height: 150px;
+  width: 85%;
+  font-size: 30px;
+  color: blue;
+}
+
+
+h7{
+  text-align: center;
+  height: 150px;
+  width: 85%;
+  font-size: 30px;
+  color: blue;
+}
+
+h8{
+  text-align: center;
+  height: 150px;
+  width: 85%;
+  font-size: 30px;
+  color: blue;
+}
+
+h9{
+  text-align: center;
+  height: 150px;
+  width: 85%;
+  font-size: 30px;
+  color: blue;
+}
+
+h10{
+  text-align: center;
+  height: 150px;
+  width: 85%;
+  font-size: 30px;
+  color: blue;
+}
+
+h11{
+  text-align: center;
+  height: 150px;
+  width: 85%;
+  font-size: 30px;
+  color: blue;
+}
+
+h12{
+  text-align: center;
+  height: 150px;
+  width: 85%;
+  font-size: 30px;
+  color: blue;
+}
+
+h13{
+  text-align: center;
+  height: 150px;
+  width: 85%;
+  font-size: 30px;
+  color: blue;
+}
+
+h14{
+  text-align: center;
+  height: 150px;
+  width: 85%;
+  font-size: 30px;
+  color: blue;
+}
